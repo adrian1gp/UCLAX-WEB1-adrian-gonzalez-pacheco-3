@@ -12,11 +12,9 @@ import TabbedContent from './TabbedContent';
 const Tabbed = () => {
 
     const[curTab, curTabUpdate] = useState(tabbedData[0]);
-
     return (
-        <TabbedStyled className='Tabbed'>
-            Tabbed 
-            <TabList curTab={ curTab } curTabUpdate={curTabUpdate} Tabs={tabbedData}/>
+        <TabbedStyled className='Tabbed'> 
+            <TabList curTab={ curTab } curTabUpdate={curTabUpdate} tabs={tabbedData}/>
             <TabbedContent curTab={ curTab }/>
         </TabbedStyled>
     );
