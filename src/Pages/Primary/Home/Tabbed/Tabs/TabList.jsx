@@ -4,6 +4,9 @@ import styled from "styled-components";
 import Tab from "./Tab";
 
 const TabList = ({ curTab, curTabUpdate, tabs }) => {
+
+    console.log({tabs});
+
   return (
     <TabListStyled className="TabList">
       {tabs.map((tab) => {

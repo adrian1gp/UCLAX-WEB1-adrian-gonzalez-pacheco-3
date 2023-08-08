@@ -15,8 +15,8 @@ const Tabbed = () => {
 
     return (
         <TabbedStyled className='Tabbed'>
-            Tabbed 
-            <TabList curTab={ curTab } curTabUpdate={curTabUpdate} Tabs={tabbedData}/>
+            Tabbed
+            <TabList curTab={ curTab } curTabUpdate={curTabUpdate} tabs={tabbedData}/>
             <TabbedContent curTab={ curTab }/>
         </TabbedStyled>
     );
@@ -25,5 +25,5 @@ const Tabbed = () => {
 export default Tabbed;
 
 const TabbedStyled = styled.div`
-    
+
 `;
