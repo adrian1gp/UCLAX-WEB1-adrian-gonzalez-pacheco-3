@@ -34,8 +34,8 @@ Backend developers are responsible for the optimization and backend of the websi
 
             </Essay>
             <Essay question='Q5: Edit: What is the difference between Absolute, Root and Document Relative linking?'>
-            The difference between Absolute, Root and Document Relative linking is that Absolute link is that a absolute link contains the full address of the site or file. It uses the format: Scheme//server/path/resource to find what its looking for.  Relative linking is linking to a file or resource that is in the same folder or path. It is used for multiple links in the same address like a menu. Root linking works by linking files from the root directory.
-
+            The difference between Absolute, Root and Document Relative linking  is that a absolute link contains the full address of the site or file. It uses the format: Scheme//server/path/resource to find what its looking for. The sheme is how it will access the resource and server is the domain name. Path is which folder or subfolder to look in and resource the the file it is looking for.  Relative linking is linking to a file or resource that is in the same folder or path that the current page is in. It is used for multiple links in the same directory. Root linking works by linking files directly from the root directory .
+            
             </Essay>
             <Essay question='Q6:What is the difference between jpg, gif, png and svg images?'>
             The difference between jpg, gif, png and svg images are mostly how they behave with pictures and images. JPGs or “Joint Photographic Experts Group” are used mostly for images on websites as they can compress large image files into smaller files. You can compress jpegs further by using lossy or lossless. PNGs stand for Portable Networks Graphics and are used for web graphics and company logos. PNGs are larger than jpegs, but the graphic quality is higher. PNGs can have a transparent background which can overlay onto a colored background.
