@@ -14,6 +14,6 @@ export default defineConfig({
     build: {
         outDir: './build',
     },
-    base: '/UCLAX-WEB1-adrian-gonzalez-pacheco-3 /',
+    base: '/UCLAX-WEB1-adrian-gonzalez-pacheco-3/',
 
 });
