@@ -1,8 +1,7 @@
-import slide1 from './img/Core-Strength.jpg';
-import slide2 from './img/Staff-In-Action.jpg';
-import slide3 from './img/Senior.jpg';
-import slide4 from './img/Group-Picture.jpg';
-import slide5 from './img/Aerial-Open-Gym.jpg';
+import slide1 from './LegobuildsLandscape/F1_car2 copy.jpg';
+import slide2 from './LegobuildsLandscape/Green_car1 copy.jpg';
+import slide3 from './LegobuildsLandscape/Green_car3 copy.jpg';
+import slide4 from './LegobuildsLandscape/LegoFlowerShopMOC.jpg'
 
 export const slidesData = [
     {
@@ -21,13 +20,8 @@ export const slidesData = [
         title: 'Senior',
     },
     {
-        id: 4,
+    id: 4,
         image: slide4,
-        title: 'Group Picture',
-    },
-    {
-        id: 5,
-        image: slide5,
-        title: 'Aerial Open Gym',
+        title: 'Half-baked lego MOC.',
     },
 ]

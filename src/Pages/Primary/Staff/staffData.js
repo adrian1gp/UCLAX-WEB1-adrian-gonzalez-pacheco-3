@@ -1,14 +1,14 @@
-import image1 from './img/Alex-Esqueda.jpg';
-import image2 from './img/Silvie-Esqueda.jpg';
-import image3 from './img/Kara-Smith.jpg';
-import image4 from './img/Brook.jpg';
-import image5 from './img/Amber-Dyett.jpg';
-import image6 from './img/Dr-Skyler-Harms.jpg';
-import image7 from './img/Elisa-Eastwood.jpg';
-import image8 from './img/Jaque-Ong.jpg';
-import image9 from './img/John-Giron.jpg';
-import image10 from './img/Karlie-Goretski.jpg';
-import image11 from './img/Shana-Millspaugh.jpg';
+import image1 from './Lego_Builds/car_1.jpg';
+import image2 from './Lego_Builds/F1_car1.jpg';
+import image3 from './Lego_Builds/F1_car2.jpg'
+import image4 from './Lego_Builds/F1_car3.jpg';
+import image5 from './Lego_Builds/Green_car1.jpg';
+import image6 from './Lego_Builds/Green_car2.jpg';
+import image7 from './Lego_Builds/Green_car3.jpg';
+import image8 from './Lego_Builds/Lab_Moc.jpg';
+import image9 from './Lego_Builds/Robotics_Lab.jpg';
+import image10 from './Lego_Builds/Space_Station.jpg';
+import image11 from './Lego_Builds/Space_station2.jpg';
 
 export const staffData = [
     {
@@ -36,18 +36,6 @@ export const staffData = [
         ],
     },
     {
-        id: 3,
-        image: image3,
-        name: 'Kara Smith',
-        yearStarted: 2012,
-        accolades: [
-            'Lead Coach & Operations Assistant   ',
-            '​CF-L2 Trainer',
-            'ATA Certified: Adaptive & Inclusive Trainer',
-            'The Phoenix (Volunteer)',
-        ],
-    },
-    {
         id: 4,
         image: image4,
         name: 'Brook',
@@ -60,18 +48,6 @@ export const staffData = [
         ],
     },
     {
-        id: 5,
-        image: image5,
-        name: 'Amber Dyett',
-        yearStarted: 2016,
-        accolades: [
-            'Coach',
-            'CF-L2',
-            'PN-1',
-            'BIRTHFIT Certified',
-        ],
-    },
-    {
         id: 6,
         image: image6,
         name: 'Dr Skyler Harms',
@@ -81,17 +57,6 @@ export const staffData = [
             'Doctor of Physical Therapy',
             'Titleist Performance Institute Certified',
             'Dry Needling Level 2',
-        ],
-    },
-    {
-        id: 7,
-        image: image7,
-        name: 'Elisa Eastwood',
-        yearStarted: 2014,
-        accolades: [
-            'Coach: Group Classes & Fundamentals',
-            '​CF-L1',
-            '2018 CF Regional Competitor',
         ],
     },
     {
