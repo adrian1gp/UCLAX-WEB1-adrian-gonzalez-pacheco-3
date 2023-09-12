@@ -8,7 +8,7 @@ const StaffMenber = ({member}) => {
         <StaffMenberStyled className='StaffMenber'>
             <img src={ member.image } alt={member.name} />
             <h3>{ member.name }</h3> 
-            <StaffBio member={ member }/>
+            {/* <StaffBio member={ member }/> */}
         </StaffMenberStyled>
     );
 }

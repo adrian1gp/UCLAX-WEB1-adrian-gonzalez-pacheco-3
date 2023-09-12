@@ -7,17 +7,17 @@ export const slidesData = [
     {
         id: 1,
         image: slide1,
-        title: 'Core Strength',
+        title: 'Formula E® Porsche 99X Electric',
     },
     {
         id: 2,
         image: slide2,
-        title: 'Staff In Action',
+        title: 'Ford Mustang Shelby® GT500® (Back View)',
     },
     {
         id: 3,
         image: slide3,
-        title: 'Senior',
+        title: 'Ford Mustang Shelby® GT500® (Side View)',
     },
     {
     id: 4,

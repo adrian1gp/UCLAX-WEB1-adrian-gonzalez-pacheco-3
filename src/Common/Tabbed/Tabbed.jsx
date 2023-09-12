@@ -1,15 +1,12 @@
 import { useState } from 'react';
 import styled from 'styled-components';
 
-// Data
-import { tabbedData } from './tabbedData';
-
 
 // components
 import TabList from './Tabs/TabList';
 import TabbedContent from './TabbedContent';
 
-const Tabbed = () => {
+const Tabbed = ({ tabbedData }) => {
 
     const[curTab, curTabUpdate] = useState(tabbedData[0]);
     return (

@@ -14,31 +14,18 @@ export const staffData = [
     {
         id: 1,
         image: image1,
-        name: 'Alex Esqueda',
-        yearStarted: 2013,
-        accolades: [
-            'Co-Owner, PageMeta Coach ',
-            'Program Designer CrossFit Decimate ',
-            'Decimate Performance Training ',
-            'CCFT/L-3 Certified CrossFit Trainer',
-        ],
+        name: 'Mercedes-AMG F1 W12 E Performance (speed champions)',
     },
     {
         id: 2,
         image: image2,
-        name: 'Silvie Esqueda',
-        yearStarted: 2013,
-        accolades: [
-            'Co-Owner & Coach',
-            'CF-L2',
-            'USAW L-1',
-            'Precision Nutrition L-1',
-        ],
+        name: 'Formula E® Porsche 99X Electric (Front View)',
+        
     },
     {
         id: 4,
         image: image4,
-        name: 'Brook',
+        name: 'Formula E® Porsche 99X Electric (Back View)',
         yearStarted: 2019,
         accolades: [
             'Coach: Group Classes & Fundementals',
@@ -50,7 +37,7 @@ export const staffData = [
     {
         id: 6,
         image: image6,
-        name: 'Dr Skyler Harms',
+        name: 'Ford Mustang Shelby® GT500® (Front View)',
         yearStarted: 2010,
         accolades: [
             'Physical Therapist',
@@ -62,7 +49,7 @@ export const staffData = [
     {
         id: 8,
         image: image8,
-        name: 'Jaque Ong',
+        name: 'Old lego laboratory MOC',
         yearStarted: 2012,
         accolades: [
             'PageMeta Olympic Lifting Coach',
@@ -74,7 +61,7 @@ export const staffData = [
     {
         id: 9,
         image: image9,
-        name: 'John Giron',
+        name: 'Robotics laboratory MOC',
         yearStarted: 2010,
         accolades: [
             'Coach: Group Classes & Fundamentals',
@@ -84,7 +71,7 @@ export const staffData = [
     {
         id: 10,
         image: image10,
-        name: 'Karlie Goretski',
+        name: 'Lunar Research Base (Front View)',
         yearStarted: 2015,
         accolades: [
             'Coach: Kids CF',
@@ -94,7 +81,7 @@ export const staffData = [
     {
         id: 11,
         image: image11,
-        name: 'Shana Millspaugh',
+        name: 'Lunar Research Base (Top View)',
         yearStarted: 2013,
         accolades: [
             'Coach',
